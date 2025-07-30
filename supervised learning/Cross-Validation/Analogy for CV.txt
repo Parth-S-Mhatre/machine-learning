@@ -1,0 +1,3 @@
+🧠 Moral of the Story:
+Validation data is the "senior" meant to test or motivate — not to train.
+So, let your model learn from the juniors, and be evaluated by seniors to see how well it has learned.
